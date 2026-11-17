@@ -39,3 +39,4 @@ npm run preview
 - AI Tools, Projects and Future Lab sections are initial V1 presentation sections.
 - Replace the abstract game artwork with the official game screenshots when supplied.
 - No backend, accounts, database or API secrets are included in V1.
+ERNEX - Independent Tech & Creative Studio
